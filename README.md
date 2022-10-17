@@ -6,13 +6,13 @@ E = (0, 0, 0)
 
 B = (0, 0, Bz) 
 
-Bz = B0(y)*y0^2
+$Bz = B0*(\frac{y}{y0})^2$
 
 q0 = (0, 0, 0, v0, v0, 0) 
 
 Do you observe any drift? For what values of B0, y0 and v0 did you observe it? What is the direction of the drift velocity for an electron and for a positron? 
 
-Now let the electric field change harmonically with time. 
+Now let the electric field change harmonically with time:
 
 Ex = E0 · cos (ωt)
 
@@ -20,7 +20,7 @@ Ey = 0
 
 Ez = 0
 
-and setting the initial velocity to
+and set the initial velocity to
 
 vx = 0
 
